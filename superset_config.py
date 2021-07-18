@@ -6,7 +6,7 @@ SUPERSET_WEBSERVER_PORT = os.environ['PORT']
 MAPBOX_API_KEY = os.getenv('MAPBOX_API_KEY')
 # Flask App Builder configuration
 # Your App secret key
-SECRET_KEY = 's-xtuvcuRBc5KAKYPRku_gRbXvhqR59DQSfEcdl03SQ='
+SECRET_KEY = 'Replace with your code'
 # The SQLAlchemy connection string to your database backend
 # This connection defines the path to the database that stores your
 # Superset metadata (slices, connections, tables, dashboards, …).
