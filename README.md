@@ -40,7 +40,7 @@ Ensure you set your own SECRET_KEY in the superset_config.py file, use the pytho
 
 `$ git add .`
 
-`$ git commit -am "make it better`
+`$ git commit -am "Init Commit`
 
 `$ git push heroku master`
 
